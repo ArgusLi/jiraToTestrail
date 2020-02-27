@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<suite>
+	<sections>
+		<section>
+			<name>Test Cases</name>
+			<description></description>
+			<cases>
+				<case>
+					<id></id>
+					<title></title>
+					<template>Test Case (Steps)</template>
+					<type>Functional</type>
+					<priority></priority>
+					<estimate></estimate>
+					<milestone></milestone>
+					<references></references>
+					<custom>
+											<automation_type><id>0</id><value> None</value></automation_type>
+											<preconds></preconds>
+											<steps_separated>
+											</steps_separated>
+					</custom>
+				</case>
+			</cases>
+	 </section>
+	</sections>
+</suite>
